@@ -1,0 +1,429 @@
+Drosophila_bipectinata
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.0946969696969697
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 8
+percentage (no. of motif / total aa): 0.7575757575757576
+
+[ST]-*P
+number: 3
+percentage (no. of motif / total aa): 0.2840909090909091
+
+[NDE]-*.-*S
+number: 8
+percentage (no. of motif / total aa): 0.7575757575757576
+
+[RKN]-*R-*.-*[ST]
+number: 1
+percentage (no. of motif / total aa): 0.0946969696969697
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 11
+percentage (no. of motif / total aa): 1.0416666666666665
+
+=============================
+Drosophila_ananassae
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 6
+percentage (no. of motif / total aa): 0.5681818181818182
+
+[ST]-*P
+number: 3
+percentage (no. of motif / total aa): 0.2840909090909091
+
+[NDE]-*.-*S
+number: 7
+percentage (no. of motif / total aa): 0.6628787878787878
+
+[RKN]-*R-*.-*[ST]
+number: 1
+percentage (no. of motif / total aa): 0.0946969696969697
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 10
+percentage (no. of motif / total aa): 0.946969696969697
+
+=============================
+Drosophila_kikkawai
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.09345794392523366
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 11
+percentage (no. of motif / total aa): 1.0280373831775702
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.1869158878504673
+
+[NDE]-*.-*S
+number: 7
+percentage (no. of motif / total aa): 0.6542056074766356
+
+[RKN]-*R-*.-*[ST]
+number: 1
+percentage (no. of motif / total aa): 0.09345794392523366
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 13
+percentage (no. of motif / total aa): 1.2149532710280373
+
+=============================
+Drosophila_yakuba
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 11
+percentage (no. of motif / total aa): 1.0387157695939566
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[NDE]-*.-*S
+number: 11
+percentage (no. of motif / total aa): 1.0387157695939566
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 11
+percentage (no. of motif / total aa): 1.0387157695939566
+
+=============================
+Drosophila_erecta
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.0946969696969697
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 9
+percentage (no. of motif / total aa): 0.8522727272727272
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.1893939393939394
+
+[NDE]-*.-*S
+number: 11
+percentage (no. of motif / total aa): 1.0416666666666665
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 11
+percentage (no. of motif / total aa): 1.0416666666666665
+
+=============================
+Drosophila_melanogaster
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.09442870632672333
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 10
+percentage (no. of motif / total aa): 0.9442870632672332
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[NDE]-*.-*S
+number: 10
+percentage (no. of motif / total aa): 0.9442870632672332
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 12
+percentage (no. of motif / total aa): 1.13314447592068
+
+=============================
+Drosophila_simulans
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 11
+percentage (no. of motif / total aa): 1.0387157695939566
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[NDE]-*.-*S
+number: 12
+percentage (no. of motif / total aa): 1.13314447592068
+
+[RKN]-*R-*.-*[ST]
+number: 1
+percentage (no. of motif / total aa): 0.09442870632672333
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 12
+percentage (no. of motif / total aa): 1.13314447592068
+
+=============================
+Drosophila_elegans
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.09433962264150944
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 8
+percentage (no. of motif / total aa): 0.7547169811320755
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.18867924528301888
+
+[NDE]-*.-*S
+number: 11
+percentage (no. of motif / total aa): 1.0377358490566038
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 11
+percentage (no. of motif / total aa): 1.0377358490566038
+
+=============================
+Drosophila_eugracilis
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.09442870632672333
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 13
+percentage (no. of motif / total aa): 1.2275731822474032
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[NDE]-*.-*S
+number: 9
+percentage (no. of motif / total aa): 0.84985835694051
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 11
+percentage (no. of motif / total aa): 1.0387157695939566
+
+=============================
+Drosophila_biarmipes
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.09442870632672333
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 9
+percentage (no. of motif / total aa): 0.84985835694051
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.18885741265344666
+
+[NDE]-*.-*S
+number: 9
+percentage (no. of motif / total aa): 0.84985835694051
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 10
+percentage (no. of motif / total aa): 0.9442870632672332
+
+=============================
+Drosophila_ficusphila
+
+S-*[ST]-*P
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+[NDE]-*S-*S
+number: 1
+percentage (no. of motif / total aa): 0.0942507068803016
+
+[RKN]-*R-*S-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+S-*[ST]
+number: 10
+percentage (no. of motif / total aa): 0.9425070688030159
+
+[ST]-*P
+number: 2
+percentage (no. of motif / total aa): 0.1885014137606032
+
+[NDE]-*.-*S
+number: 8
+percentage (no. of motif / total aa): 0.7540056550424128
+
+[RKN]-*R-*.-*[ST]
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+K-*E-*N
+number: 0
+percentage (no. of motif / total aa): 0.0
+
+R-*.-*.-*L
+number: 11
+percentage (no. of motif / total aa): 1.0367577756833177
+
+=============================

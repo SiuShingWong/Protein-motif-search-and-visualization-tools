@@ -1,0 +1,26 @@
+Drosophila_bipectinata          474    -SP-   476
+Drosophila_ananassae            474    -SP-   476
+Drosophila_kikkawai             482    -SP-   484
+Drosophila_yakuba               476    -SP-   478
+Drosophila_erecta               473    -SP-   475
+Drosophila_melanogaster         476    -SP-   478
+Drosophila_simulans             476    -SP-   478
+Drosophila_elegans              476    -SP-   478
+Drosophila_eugracilis           476    -SP-   478
+Drosophila_biarmipes            476    -SP-   478
+Drosophila_ficusphila           478    -SP-   480
+
+
+Drosophila_bipectinata         1047    -SP-  1049
+Drosophila_ananassae           1047    -SP-  1049
+Drosophila_kikkawai            1061    -SP-  1063
+Drosophila_yakuba              1050    -SP-  1052
+Drosophila_erecta              1047    -SP-  1049
+Drosophila_melanogaster        1050    -SP-  1052
+Drosophila_simulans            1050    -SP-  1052
+Drosophila_elegans             1051    -SP-  1053
+Drosophila_eugracilis          1050    -SP-  1052
+Drosophila_biarmipes           1050    -SP-  1052
+Drosophila_ficusphila          1052    -SP-  1054
+
+
